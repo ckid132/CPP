@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\CODE\CPP\mile_to_kilio\x64\Debug\mile_to_kilio.exe
+C:\Users\user\Desktop\CODE\CPP\연습문제\mile_to_kilio\x64\Debug\mile_to_kilio.exe

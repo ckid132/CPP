@@ -1,0 +1,6 @@
+﻿  BankAccount.cpp
+C:\Users\user\Desktop\CODE\CPP\eeeeexxxxx\BankAccount.cpp(25,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\CODE\CPP\eeeeexxxxx\BankAccount.cpp(51,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\CODE\CPP\eeeeexxxxx\BankAccount.cpp(57,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  eeeeexxxxx.cpp
+  코드를 생성하고 있습니다...
